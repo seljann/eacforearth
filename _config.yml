@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Sejan Gasimova
   location: Location
   social: Around the Web
   credits: Credits
@@ -42,11 +42,11 @@ social:
   - title: instagram
     url: https://www.instagram.com/eac.baku
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: 
   - title: facebook
     url:
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/seljann/
 
 # Postal address (add as many lines as necessary)
 address:
@@ -54,7 +54,7 @@ address:
   - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Environmental Awareness Club «Clean solutions take start from clean minds»'
 
 # Build settings
 markdown: kramdown
