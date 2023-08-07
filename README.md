@@ -1,7 +1,7 @@
-Freelancer Jekyll theme  
+Jekyll theme  
 =========================
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
+Jekyll theme based on [bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
 
 ## How to use
  - Place a image in `/img/portfolio/`
@@ -16,7 +16,7 @@ img: cabin.png
 alt: image-alt
 project-date: January 2020
 client: The Client
-category: Web Development
+category:
 description: The description of the project
 
 ---
