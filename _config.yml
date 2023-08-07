@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Sejan Gasimova
+  copyright: Seljan Gasimova
   location: Location
   social: Around the Web
   credits: Credits
@@ -50,11 +50,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Baku
+  - line: Azerbaijan
 
 # Credits content
-credits: 'Environmental Awareness Club «Clean solutions take start from clean minds»'
+credits: 'Environmental Awareness Club'
 
 # Build settings
 markdown: kramdown
