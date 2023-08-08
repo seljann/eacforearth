@@ -482,3 +482,20 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+.custom-bullet {
+    list-style-type: none;
+    padding-left: 0;
+}
+.custom-bullet li {
+    position: relative;
+    padding-left: 1.5em;
+}
+.custom-bullet li:before {
+    content: '•';
+    position: absolute;
+    left: 0;
+    color: #333; /* you can change this to whatever color you like */
+    font-size: 1.5em;
+    line-height: 1;
+}
